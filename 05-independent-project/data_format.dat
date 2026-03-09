@@ -1,0 +1,4 @@
+column 1 = radial distance [kpc]
+column 2 = velocity [km/s]
+column 3 = error on velocity [km/s]
+
